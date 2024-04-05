@@ -1,0 +1,75 @@
+Body {
+    background-color: black;
+}
+
+.Titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+#Stefa {
+    color: white;
+}
+
+#Stefa2 {
+    color: red;
+    padding-left: 10px;
+}
+
+.Contenedor {
+    display: flex;
+}
+
+div img {
+    width: 250px;
+    height: 350px;
+}
+
+.Foto1 {
+    float: right;
+    padding-right: 15;
+}
+
+.foto2 {
+    padding-left: 15%;
+}
+
+.Texto2 {
+    font-size: 20px;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.Contenedor2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div video {
+    padding-top: 30px;
+    width: 350px;
+    height: 350px;
+}
+
+.Stitch {
+    padding-top: 30px;
+    width: 350px;
+    height: 350px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.Lose {
+    padding-left: 20%;
+    color: white;
+}
+
+.FelizCumple {
+    color: red;
+    font-size: 80px;
+    padding-left: 18%;
+}
